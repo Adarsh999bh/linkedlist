@@ -4,7 +4,7 @@ package com.linkedlist;
  * Hello world!
  *
  */
-public class App 
+public class LinkedlistApp 
 {
     /**
 	 * 
